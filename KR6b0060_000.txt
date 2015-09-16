@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 雜寶藏經
+#+DATE: 2015-08-30 19:35:57.314611
+#+PROPERTY: JUAN 0
